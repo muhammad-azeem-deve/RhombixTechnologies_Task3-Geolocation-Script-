@@ -29,7 +29,7 @@ GeoLocator Pro is a Python-based desktop application that allows users to input 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/geolocator-pro.git
+git clone [https://github.com/muhammad-azeem-deve/RhombixTechnologies_Task3-Geolocation-Script-]
 cd geolocator-pro
 
 2. Install dependencies:
